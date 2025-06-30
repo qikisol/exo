@@ -20,7 +20,7 @@
         "verified_through": "XP",
         "website": "https://solscroll.app/mia",
         "photo_url": "https://example.com/profiles/mia.jpg",
-        "icon_url": "https://raw.githubusercontent.com/qikisol/exo/main/svg/solscroll/solscroll_verified_profile.svg",
+        "icon_url": "https://github.com/qikisol/exo/blob/ffa29ea7d47549aa3c82715e978ce1d7e14080e7/svg/solscroll/solscroll_verified_profile.svg",
         "last_updated": "2025-04-23T13:51:41Z"
       },
       "geometry": {
@@ -37,7 +37,7 @@
         "verified_through": null,
         "website": null,
         "photo_url": null,
-        "icon_url": "https://raw.githubusercontent.com/qikisol/exo/main/svg/solscroll/solscroll_match_zone.svg",
+        "icon_url": "https://github.com/qikisol/exo/blob/ffa29ea7d47549aa3c82715e978ce1d7e14080e7/svg/solscroll/solscroll_match_zone.svg",
         "last_updated": "2025-04-23T13:51:41Z"
       },
       "geometry": {
@@ -57,7 +57,7 @@
         "event_url": "https://www.eventbrite.com/e/12234567",
         "event_date": "2025-05-03T19:00:00Z",
         "photo_url": null,
-        "icon_url": "https://raw.githubusercontent.com/qikisol/exo/main/svg/solscroll/solscroll_meetup_event.svg",
+        "icon_url": "https://github.com/qikisol/exo/blob/ffa29ea7d47549aa3c82715e978ce1d7e14080e7/svg/solscroll/solscroll_meetup_event.svg",
         "last_updated": "2025-04-23T13:51:41Z"
       },
       "geometry": {
@@ -76,7 +76,7 @@
         "mutual_scroll_triggered": "no",
         "verified_through": "manual",
         "photo_url": null,
-        "icon_url": "https://raw.githubusercontent.com/qikisol/exo/main/svg/solscroll/solscroll_connection_attempt.svg",
+        "icon_url": "https://github.com/qikisol/exo/blob/ffa29ea7d47549aa3c82715e978ce1d7e14080e7/svg/solscroll/solscroll_connection_attempt.svg",
         "last_updated": "2025-04-23T13:51:41Z"
       },
       "geometry": {
@@ -93,7 +93,7 @@
         "verified_through": "user",
         "website": "https://vistacafe.com",
         "photo_url": null,
-        "icon_url": "https://raw.githubusercontent.com/qikisol/exo/main/svg/solscroll/solscroll_date_sanctuary.svg",
+        "icon_url": "https://github.com/qikisol/exo/blob/ffa29ea7d47549aa3c82715e978ce1d7e14080e7/svg/solscroll/solscroll_date_sanctuary.svg",
         "last_updated": "2025-04-23T13:51:41Z"
       },
       "geometry": {
@@ -112,7 +112,7 @@
         "mutual_scroll_triggered": "no",
         "verified_through": "report",
         "photo_url": null,
-        "icon_url": "https://raw.githubusercontent.com/qikisol/exo/main/svg/solscroll/solscroll_blocked_entity.svg",
+        "icon_url": "https://github.com/qikisol/exo/blob/ffa29ea7d47549aa3c82715e978ce1d7e14080e7/svg/solscroll/solscroll_blocked_entity.svg",
         "last_updated": "2025-04-23T13:51:41Z"
       },
       "geometry": {
@@ -131,7 +131,7 @@
         "mutual_scroll_triggered": "unknown",
         "verified_through": "dream",
         "photo_url": null,
-        "icon_url": "https://raw.githubusercontent.com/qikisol/exo/main/svg/solscroll/solscroll_dream_match.svg",
+        "icon_url": "https://github.com/qikisol/exo/blob/ffa29ea7d47549aa3c82715e978ce1d7e14080e7/svg/solscroll/solscroll_dream_match.svg",
         "last_updated": "2025-04-23T13:51:41Z"
       },
       "geometry": {
